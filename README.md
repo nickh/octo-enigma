@@ -2,4 +2,4 @@
 
 Testing commit references
 
-This was me, making a change in a clone of the octo enigma.
+This was other me, making some changes in a clone of the octo enigma.
