@@ -1,3 +1,5 @@
 # It's an Octo-enigma!!!
 
-Testing commit references
+Testing commit references.
+
+Who can make sense of this enigma?!?
