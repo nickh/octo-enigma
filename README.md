@@ -1,5 +1,5 @@
-# It's an Octo-enigma!!!
+# It's an Octo Enigma!!!
 
-Testing commit references
+Testing commit references et al
 
 Here's a change to make a PR out of.
